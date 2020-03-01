@@ -7,8 +7,6 @@ This project is based on 3 services:
 
 ## Demo
 
-Use the app online at https://farmersmarkets.kelli.app
-
 ![ShoppingCart - Animated gif demo](demo/demo.gif)
 
 
