@@ -8,9 +8,7 @@ This project is based on 3 services:
 ## Demo
 
 
-![ShoppingCart - Animated gif demo](demo/demo.gif)
-https://i.imgur.com/R27HOtv.gifv
-
+![ShoppingCart - Animated gif demo](demo.gif)
 
 ## Project includes:
 * Authentication system with JWT
