@@ -7,8 +7,9 @@ This project is based on 3 services:
 
 ## Demo
 
-![ShoppingCart - Animated gif demo](demo/demo.gif)
 
+![ShoppingCart - Animated gif demo](demo/demo.gif)
+https://i.imgur.com/R27HOtv.gifv
 
 
 ## Project includes:
