@@ -13,7 +13,7 @@ This project is based on 3 services:
 ## Project includes:
 * Authentication system with JWT
 * Redux for managing application state
-* using AWS services such as RDS, EC2, S3
+* AWS services such as RDS, EC2, S3
 
 
 
